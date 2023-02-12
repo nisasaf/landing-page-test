@@ -9,7 +9,8 @@
 <link href="{{ asset('assets/fontawesome/css/brands.min.css') }}" rel="stylesheet">
 <style>
   body {
-      font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
+    background: #f9f9f9;
   }
   .main-content .owl-theme .custom-nav {
     position: absolute;
